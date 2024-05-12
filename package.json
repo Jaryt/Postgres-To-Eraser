@@ -1,0 +1,16 @@
+{
+  "name": "pg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "convert": "ts-node-esm index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.11",
+    "@types/yargs": "^17.0.32",
+    "yargs": "^17.7.2"
+  }
+}
